@@ -5,6 +5,7 @@ verify_ssl = true
 
 [packages]
 "discord.py" = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 flake8 = "*"
