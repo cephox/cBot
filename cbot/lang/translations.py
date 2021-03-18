@@ -11,5 +11,3 @@ class Translations:
             return self._translations[item[2:]].format
         return copy.deepcopy(self._translations[item])
 
-
-translations = Translations("en")
