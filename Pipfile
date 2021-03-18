@@ -7,6 +7,8 @@ verify_ssl = true
 "discord.py" = "*"
 sqlalchemy = "*"
 pyyaml = "*"
+pynacl = "*"
+pymysql = "*"
 
 [dev-packages]
 flake8 = "*"
